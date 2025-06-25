@@ -31,10 +31,4 @@ The model outputs the **Top-3 predicted fabric classes** with confidence scores.
 
 
 
-## Getting Started
-
-### 1. Install Dependencies
-
-```bash
-pip install torch torchvision transformers numpy pillow scikit-learn
 
