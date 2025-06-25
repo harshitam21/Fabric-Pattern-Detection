@@ -26,8 +26,9 @@ The model outputs the **Top-3 predicted fabric classes** with confidence scores.
 ![image](https://github.com/user-attachments/assets/9836531f-78af-440e-b535-a717bbbbbea4)
 ![image](https://github.com/user-attachments/assets/16805d5a-2e5c-4701-a454-d254ae11b67f)
 
-![image](https://github.com/user-attachments/assets/3accf506-0ba0-4f6f-93d9-c2b874dda6c3)
-![image](https://github.com/user-attachments/assets/643c3136-1195-4d90-9cbc-dfd7c3989870)
+![image](https://github.com/user-attachments/assets/6b08f245-3196-456c-8d32-b2762684616e)
+![image](https://github.com/user-attachments/assets/ed37ebdc-f0a2-4f9f-a505-2d17addbafdf)
+
 
 
 ## 🚀 Getting Started
