@@ -10,7 +10,7 @@ This project classifies clothing fabric patterns from images using a fine-tuned 
 
 ## Project Pipeline
 
-### 1. 🗂Data Collection
+### 1. Data Collection
 
 Images were collected for each fabric pattern class (e.g., *floral*, *stripes*, *plaid*, etc.) using [`icrawler`](https://github.com/hellock/icrawler), a Python-based image crawler. Each class is stored in its respective folder.
 
@@ -50,7 +50,7 @@ This ensures only the fabric region is passed to the classifier, improving real-
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 * `torch`, `torchvision`
 * `transformers` (HuggingFace)
@@ -70,7 +70,7 @@ This ensures only the fabric region is passed to the classifier, improving real-
 
 ---
 
-## 💡 Use Cases
+## Use Cases
 
 * Fashion e-commerce filtering
 * Visual search by fabric type
