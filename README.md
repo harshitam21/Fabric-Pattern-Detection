@@ -1,7 +1,3 @@
-Here's a polished and professional version of your README, rewritten for clarity, completeness, and strong presentation. It includes sections that are typically expected in a good ML project README:
-
----
-
 # Fabric Pattern Classification using CLIP-ViT
 
 This project classifies clothing fabric patterns from images using a fine-tuned Vision Transformer model (`CLIP-ViT`). It supports **multi-class classification** with real-world image input, enhanced by **image segmentation** to isolate clothing regions. The pipeline includes data collection, model training, segmentation with SAM & GroundingDINO, and top-3 fabric class predictions with confidence scores.
