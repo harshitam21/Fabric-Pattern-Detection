@@ -33,7 +33,6 @@ This ensures only the fabric region is passed to the classifier, improving real-
 * Top-3 predicted fabric classes with confidence scores.
 * Suitable for both **clean datasets** and **real-world fashion images**.
 
----
 
 ## Sample Outputs
 
@@ -56,7 +55,7 @@ This ensures only the fabric region is passed to the classifier, improving real-
 * `Ultralytics`
 * `GroundingDINO` (see the official repo for installation)
 
----
+--
 
 ## Evaluation Metrics
 
@@ -64,7 +63,7 @@ This ensures only the fabric region is passed to the classifier, improving real-
 * **Precision, Recall, F1-Score**
 * Optionally: per-class breakdown using `sklearn.metrics.classification_report`
 
----
+-
 
 ## Use Cases
 
@@ -73,7 +72,7 @@ This ensures only the fabric region is passed to the classifier, improving real-
 * Apparel metadata tagging
 * Fashion trend forecasting inputs
 
----
+-
 
 ## Future Work
 
@@ -81,7 +80,6 @@ This ensures only the fabric region is passed to the classifier, improving real-
 * Extend to detect **fabric texture types** (e.g., chiffon, denim)
 * Improve segmentation pipeline with human pose estimation
 * Addition of more diverse classification labels
----
 
 ## Acknowledgements
 
