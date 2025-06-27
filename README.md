@@ -55,7 +55,6 @@ This ensures only the fabric region is passed to the classifier, improving real-
 * `Ultralytics`
 * `GroundingDINO` (see the official repo for installation)
 
---
 
 ## Evaluation Metrics
 
@@ -63,7 +62,7 @@ This ensures only the fabric region is passed to the classifier, improving real-
 * **Precision, Recall, F1-Score**
 * Optionally: per-class breakdown using `sklearn.metrics.classification_report`
 
--
+
 
 ## Use Cases
 
@@ -72,7 +71,7 @@ This ensures only the fabric region is passed to the classifier, improving real-
 * Apparel metadata tagging
 * Fashion trend forecasting inputs
 
--
+
 
 ## Future Work
 
@@ -93,4 +92,5 @@ This ensures only the fabric region is passed to the classifier, improving real-
 ## Author
 
 **Harshita Manocha**
+
 For questions or collaborations: `harshitamano2005@gmail.com`
