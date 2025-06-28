@@ -35,10 +35,10 @@ This ensures only the fabric region is passed to the classifier, improving real-
 
 
 ## Sample Outputs
-  <img src="https://github.com/user-attachments/assets/9836531f-78af-440e-b535-a717bbbbbea4" width="220"/>
-  <img src="https://github.com/user-attachments/assets/16805d5a-2e5c-4701-a454-d254ae11b67f" width="220"/>
-  <img src="https://github.com/user-attachments/assets/6b08f245-3196-456c-8d32-b2762684616e" width="220"/>
-  <img src="https://github.com/user-attachments/assets/ed37ebdc-f0a2-4f9f-a505-2d17addbafdf" width="220"/>
+  <img src="https://github.com/user-attachments/assets/9836531f-78af-440e-b535-a717bbbbbea4" >
+  <img src="https://github.com/user-attachments/assets/16805d5a-2e5c-4701-a454-d254ae11b67f" >
+  <img src="https://github.com/user-attachments/assets/6b08f245-3196-456c-8d32-b2762684616e" >
+  <img src="https://github.com/user-attachments/assets/ed37ebdc-f0a2-4f9f-a505-2d17addbafdf" >
 
 ---
 
