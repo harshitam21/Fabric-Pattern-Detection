@@ -41,7 +41,7 @@ This ensures only the fabric region is passed to the classifier, improving real-
   <img src="https://github.com/user-attachments/assets/6b08f245-3196-456c-8d32-b2762684616e" >
   <img src="https://github.com/user-attachments/assets/ed37ebdc-f0a2-4f9f-a505-2d17addbafdf" >
 </center>
----
+
 
 ## Dependencies
 
